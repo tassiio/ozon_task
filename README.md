@@ -15,8 +15,6 @@
 
 Выбранная статья: ["Мошенничество в интернете"](https://docs.ozon.ru/common/my-settings/bezopasnost/moshennichestvo-v-internete/?country=RU)
 
-1. __"Обратите внимание<span style="color: red"> ,</span> Ozon не рассылает сообщения на мессенджеры Viber или WhatsApp."__
-
-<span style="color:red">
-Text content
-</span>
+1. __"Обратите внимание, Ozon не рассылает сообщения на мессенджеры Viber или WhatsApp."__
+- В данном предложении необходимо либо двоеточие вместо запятой, либо "что" после запятой. 
+- На мой взгляд, уточнение о конкретных мессенджерах (Viber, WhatsApp) нужно убрать, так как мошенники могут использовать любую платформу (Telegram, VK и т.д.). 
