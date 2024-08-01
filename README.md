@@ -17,3 +17,6 @@
 
 1. __"Обратите внимание<span style="color: red"> ,</span> Ozon не рассылает сообщения на мессенджеры Viber или WhatsApp."__
 
+<span style="color:red">
+Text content
+</span>
