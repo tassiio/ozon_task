@@ -1,0 +1,30 @@
+@startuml sequence
+title Игра на гитаре: первые шаги
+actor "Ученик" as User
+participant "Магазин" as Shop
+participant "Гитара" as Guitar
+participant "Тюнер" as Tuner
+participant "Источники информации (онлайн, офлайн)" as Info
+participant "Школа/наставник" as Teacher
+
+User -> Info++: Ознакомление с видами гитар. Выбор
+User -> Info: Изучение теории
+
+
+User -> Shop++ : Прийти в магазин
+Shop -> Tuner++ : Купить тюнер
+Shop -> Guitar++ : Подобрать гитару
+deactivate Shop
+Tuner -> Guitar : Настроить
+deactivate Tuner
+
+User -> Guitar: Практика. Применение теории
+Info --> Guitar: Практика. Применение теории
+deactivate Guitar
+deactivate Info
+User -> Teacher++: Задать вопросы по теории
+Teacher -> Guitar++: Проверка настройки
+deactivate Guitar
+Teacher --> User: Ответить на вопросы. Исправить ошибки в технике игры
+deactivate Teacher
+@enduml
