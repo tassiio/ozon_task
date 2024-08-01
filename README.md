@@ -42,3 +42,14 @@
 
 ![Screen_and_text](https://github.com/tassiio/ozon_task/blob/main/pict/4.jpg)
 
+
+#### Text:
+
+Let's take a look at the "My Account" tab in the Ozon mobile app.
+At the top we see the search bar, which allows the user to search for the product of interest on the marketplace. In the upper right corner there is a chat symbol with the number of unread messages from stores and different Ozon services.
+Next, there is a field containing the first name and the surname of the account owner. Clicking on this field will open a page containing the user's personal data.
+Below are three equally sized fields. The first of them shows a heart. Here you can find the user's favorite products. The next field with the shopping cart is a list of all purchases made by the user. In the last section with the symbol "Б" you can find all products purchased by the user, for the evaluation of which you can get sellers' bonus points.
+If you click on the box with the gift, you can find out about prize drawings held by Ozone.
+Next, we see two fields that are the same width. The first one shows the number of bonus points received for purchases. The second field contains information about the installments that Ozon can offer to its customers.
+The marketplace has its own Ozon Bank. Each user can get a virtual Ozon card and pay for purchases in the app and on the website with a certain discount. The card can be topped up through the SQP system. So, the next field displays the number of rubles on the Ozon card. The blue button is used to top up the card.
+The last large section on this screen displays items that have been recently viewed by the user. By clicking on the hearts in the right corner of each product card you can add it to your favorites.
