@@ -15,4 +15,5 @@
 
 Выбранная статья: ["Мошенничество в интернете"](https://docs.ozon.ru/common/my-settings/bezopasnost/moshennichestvo-v-internete/?country=RU)
 
-1. __"Обратите внимание==,== Ozon не рассылает сообщения на мессенджеры Viber или WhatsApp."__
+1. __"Обратите внимание<span style="color: red"> ,</span> Ozon не рассылает сообщения на мессенджеры Viber или WhatsApp."__
+
