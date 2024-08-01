@@ -38,12 +38,11 @@
 
 ### 4. Если вы хотели бы работать с документацией на английском языке, опишите, пожалуйста, любой экран мобильного приложения Ozon на английском языке.
 
-Я выбрала раздел "Личный кабинет" для описания (скриншот и текст прилагаю).
+Я выбрала раздел "Личный кабинет" для описания. Оригинальный скриншот находится в папке ./pics/screen.jpg. Полный текст можете проверить под изображением.
 
 ![Screen_and_text](https://github.com/tassiio/ozon_task/blob/main/pict/4.jpg)
 
-
-#### Text:
+### Text:
 
 Let's take a look at the "My Account" tab in the Ozon mobile app.
 At the top we see the search bar, which allows the user to search for the product of interest on the marketplace. In the upper right corner there is a chat symbol with the number of unread messages from stores and different Ozon services.
